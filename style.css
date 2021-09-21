@@ -1,0 +1,7 @@
+body{
+    background: url("images.jpg")no-repeat;
+    background-size:100%;
+    height: auto;
+    width: auto;
+    display:block;
+}
